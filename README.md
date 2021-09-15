@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KKyleK
+- 👀 I’m interested in ... Web development
+- 🌱 I’m currently learning ... HTML, CSS, Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... kkoivuneva7@gmail.com
