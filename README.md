@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KKyleK
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... HTML, CSS, Javascript
-- 📫 How to reach me ... kkoivuneva7@gmail.com
+- 👋 Hi, I’m @KKyleK, a fourth year computer science student.
+- 👀 I’m interested in Web development and AI.
+- 🌱 I’m currently learning HTML, CSS, Javascript.
+- 📫 Reach me at kkoivuneva7@gmail.com.
